@@ -1,0 +1,9 @@
+
+My Open Source Manifesto
+------------------------
+Generated on: 19 March 2026
+
+Every day I rely on git — a tool built freely and shared openly.
+To me, freedom means choice, and that is the heart of open source.
+One day I will build learning app and share it with the world for free,
+because knowledge grows when it is given away, not locked up.
